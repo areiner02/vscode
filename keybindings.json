@@ -134,7 +134,7 @@
     {
         "key": "ctrl-l",
         "command": "cursorRight",
-        "when": "(vim.mode == 'Insert' && editorTextFocus"
+        "when": "vim.mode == 'Insert' && editorTextFocus"
     },
     // Visual mode
     {
