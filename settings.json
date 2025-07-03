@@ -1,0 +1,18 @@
+{
+    "editor.fontFamily": "Iosevka",
+    "workbench.colorTheme": "Tsoding Emacs Gruber Minimal",
+    "editor.lineNumbers": "relative",
+    
+    "window.commandCenter": false,
+    "breadcrumbs.enabled": false,
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.enabled": false,
+    "window.customTitleBarVisibility": "windowed",
+
+    "vim.leader": " ",
+    "vim.useSystemClipboard": true,
+    "vim.useCtrlKeys": true,
+    "vim.ignorecase": true,
+    "vim.highlightedyank.enable": true,
+    "vim.highlightedyank.duration": 150,
+}
